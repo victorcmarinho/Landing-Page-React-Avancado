@@ -1,5 +1,5 @@
 # Lading Page Project
-[Image](https://github.com/victorcmarinho/Landing-Page-React-Avancado/blob/master/readmeimg.png)
+![Image](https://github.com/victorcmarinho/Landing-Page-React-Avancado/blob/master/readmeimg.png)
 
 # Simple NextJS Quick Start
 
